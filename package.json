@@ -1,0 +1,16 @@
+{
+  "name": "irrigable-rollup",
+  "version": "1.0.0",
+  "description": "irrigable rollup processor",
+  "main": "rollup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.66.2",
+    "vinyl-sourcemaps-apply": "^0.2.1"
+  }
+}
